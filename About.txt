@@ -1,0 +1,14 @@
+
+............................................................................................
+
+Welcome to Book Store Management System. In this applicaton we offer you -
+	* Store Owner Registration and Login.
+	* Customer Registration and Login.
+	* Can take multiple user Login/Registration.
+	* It has Manage Books, Add Books, Remove Books, Searching Books and Show All Books for Store Owner.
+	* Customers can choose from multiple Books and Buy them.
+
+This Application is Developed by : Sabit[21-45306-2] , Zayed[21-45021-2], Devdoot[21-45061-2] and Punam[21-44946-2]
+
+	(c) 2021 Bookstore. Inc SabitZayedDevdootPunam[Group 9]. All Rights Reserved.
+............................................................................................
